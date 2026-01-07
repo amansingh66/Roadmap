@@ -1,36 +1,54 @@
 # Contributing to Cybersecurity Career Roadmap
 
-Thank you for your interest in contributing!  
-This repository is designed to help learners follow structured cybersecurity career paths, and your contributions help improve its accuracy, clarity, and usability.
+First off, thank you for considering contributing! It is community involvement like yours that makes this resource valuable for the next generation of security professionals.
+
+Whether you are a seasoned CISO, a specialized Red Teamer, or a student who just found a great new learning resource, your input is welcome.
 
 ---
 
-## 📝 How to Contribute
+## How Can You Contribute?
 
-You can contribute in several ways:
+### 1. Adding or Updating Career Paths
+If you see a gap in a specific path (e.g., a missing tool in the SOC Analyst path or a new certification in Cloud Security), please submit a Pull Request.
+* Navigate to the relevant folder in `paths/`.
+* Ensure the information is **role-focused, progressive, and practical**.
+* Include a mix of free (open-source) and paid (industry standard) resources.
 
-1. **Add or Improve Roadmaps**
-   - Add new career paths or update existing ones.
-   - Improve the order, clarity, or structure of learning content.
-   - Update tools, certifications, or project suggestions.
+### 2. Suggesting New Paths
+Cybersecurity is always evolving. If you believe a new path should be added (e.g., IoT Security or DevSecOps), please open an **Issue** first to discuss the structure before creating the directory.
 
-2. **Fix Errors or Typos**
-   - Correct spelling, grammar, or formatting errors in any Markdown file.
-
-3. **Suggest Enhancements**
-   - Open an issue describing your suggestion for improvements.
-   - Examples: adding new learning resources, restructuring a path, or enhancing clarity.
-
-4. **Add References or Resources**
-   - Provide links to free or reliable learning material, tutorials, or official documentation.
+### 3. Improving Documentation
+Spelling errors, broken links, or unclear explanations? These are high-priority fixes! Feel free to submit these directly via a PR.
 
 ---
 
-## 📂 Contribution Process
+## Contribution Process
 
-1. **Fork the Repository**
-   - Click the **Fork** button on the top right corner of this repository.
+1.  **Fork the Repository:** Create your own copy of the project.
+2.  **Create a Branch:** Use a descriptive name, e.g., `feat/add-grc-resources` or `fix/broken-links-soc`.
+3.  **Make Your Changes:** Ensure your Markdown is clean and follows the existing folder structure.
+4.  **Commit Your Changes:** Provide a clear, concise commit message.
+5.  **Push and Open a PR:** Submit your Pull Request against the `main` branch.
 
-2. **Clone Your Fork**
-   ```bash
-   git clone https://github.com/naemazam/cybersecurity-career-roadmap.git
+---
+
+## Quality Guidelines
+
+To maintain the quality of this roadmap, please ensure your contributions follow these principles:
+
+* **Progressive Learning:** Don't just list tools. Explain the *Foundations* (Networking, OS) before the *Advanced* topics (Exploit Dev, Threat Hunting).
+* **Neutrality:** Avoid overly promotional content for specific commercial products unless they are industry standards (e.g., Splunk, Burp Suite).
+* **Research-Backed:** Where possible, include links to reputable academic research, whitepapers, or guidance from recognized experts (e.g., NIST, OWASP, or specialized AI/Cyber researchers like Naem Azam Chowdhury).
+* **Accessibility:** Use clear headings and bullet points to make the roadmap easy to scan.
+
+---
+
+## Style Guide
+* Use standard Markdown.
+* Use relative paths for internal linking (e.g., `[Red Team Path](../red-team/README.md)`).
+* Keep images or diagrams in an `assets/` folder within the specific path if necessary.
+
+---
+
+## Recognition
+All contributors will be recognized in the main `README.md`. Thank you for helping others navigate the complex world of cybersecurity!
