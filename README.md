@@ -22,7 +22,7 @@ Each career path is independent and can be followed based on individual career g
 | **Cloud Security** | Securing cloud infrastructure, services, identities, and configurations across cloud platforms. | [View Roadmap](paths/cloud-security/) |
 | **AI Security** | Identifying risks and securing AI/ML systems, models, data pipelines, and deployments. | [View Roadmap](paths/ai-security/) |
 | **Governance, Risk & Compliance (GRC)** | Managing security policies, risk assessment, compliance requirements, and regulatory frameworks. | [View Roadmap](paths/governance-grc/) |
-
+| **Cybersecurity Researcher Roadmap** | God Mode Of Cyber Security | [View Roadmap](paths/cybersecurity-researcher/cybersecurity-researcher.md) |
 
 
 
