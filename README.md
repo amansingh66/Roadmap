@@ -1,4 +1,4 @@
-# Cybersecurity Career Roadmap
+# CyberSecurity Career Roadmap ×͜×
 
 **Navigate Cyber Security Careers with Structured, Role-Based roadmaps.**
 
