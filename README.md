@@ -9,6 +9,7 @@ The content is role-focused, progressive, and practical—covering foundations, 
 
 [Free Cyber Security Books](https://security-books.notion.site/)
 
+
 ## 🧭 Career Paths Covered
 
 Each career path is independent and can be followed based on individual career goals.
