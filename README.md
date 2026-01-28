@@ -1,9 +1,8 @@
 # Cybersecurity Career Roadmap
 
-**Navigate cybersecurity careers with structured, role-based roadmaps.**
+**Navigate Cyber Security Careers with Structured, Role-Based roadmaps.**
 
-This repository provides a comprehensive and organized guide to multiple cybersecurity career paths.  
-It is designed to help learners understand **what to learn, in what order, and why**, across different security roles.
+This repository provides a comprehensive and organized guide to multiple cybersecurity career paths.   It is designed to help learners understand **what to learn, in what order, and why**, across different security roles.
 
 The content is role-focused, progressive, and practical—covering foundations, technical skills, tools, certifications, and career guidance.
 
@@ -26,7 +25,6 @@ Each career path is independent and can be followed based on individual career g
 | **AI Security** | Identifying risks and securing AI/ML systems, models, data pipelines, and deployments. | [View Roadmap](paths/ai-security/) |
 | **Governance, Risk & Compliance (GRC)** | Managing security policies, risk assessment, compliance requirements, and regulatory frameworks. | [View Roadmap](paths/governance-grc/) |
 | **Cybersecurity Researcher Roadmap** | God Mode Of Cyber Security | [View Roadmap](paths/cybersecurity-researcher/cybersecurity-researcher.md) |
-
 
 
 
@@ -93,12 +91,6 @@ Career outcomes depend on individual effort, practice, and real-world experience
 The roadmaps are intended as **guidance frameworks**, not strict rules.
 
 
-## 📌 License
-
-This project is open-source and intended for educational purposes.
-License details can be added as the project evolves.
-
-
 ## ⭐ Support
 
 If you find this repository useful:
@@ -110,3 +102,7 @@ Your support helps keep the project growing and up to date.
 
 
 
+## 📌 License
+
+This project is open-source and intended for educational purposes.
+License details can be added as the project evolves.
