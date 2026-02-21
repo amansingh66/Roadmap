@@ -1,4 +1,4 @@
-# Contributing to Cybersecurity Career Roadmap
+# Contributing to Cybersecurity Career Roadmap.
 
 First off, thank you for considering contributing! It is community involvement like yours that makes this resource valuable for the next generation of security professionals.
 
